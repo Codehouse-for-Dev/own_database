@@ -11,3 +11,6 @@ func SaveData1(path string, data []byte) error {
     }
     return fp.Sync() // fsync
 }
+
+
+# next 10 days busy in building project related to nlp 
