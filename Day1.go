@@ -14,3 +14,4 @@ func SaveData1(path string, data []byte) error {
 
 
 # next 10 days busy in building project related to nlp 
+# Learnt about mcp servers how it works whether thing
